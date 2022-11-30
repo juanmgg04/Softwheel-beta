@@ -16,7 +16,7 @@ try{
 }
 
 
-$URL='http://localhost/softwheels-main%20terminado%202.4';
+$URL='http://localhost/softwheel-beta';
 
 $estado_del_registro = "1";
 
