@@ -1,0 +1,26 @@
+.ventana{
+    background: #bdc1c6 ;
+    width: 40%;
+    color: rgb(255,255,255,1);
+    font-size: 18px;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    display: none;
+}
+#cerrarv{
+    position: absolute;
+    right: 10px;
+    top: 1px;
+}
+
+h5, label{
+    color: rgb(78, 78, 78);
+}
+
+
+
